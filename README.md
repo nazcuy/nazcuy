@@ -27,9 +27,11 @@ Soy Técnico en Informática y estudiante de la Tecnicatura Universitaria en Pro
 **Mi rol:** Desarrollo completo frontend y backend.  
 
 **Habilidades clave demostradas:**  
-- Frontend: HTML, CSS, JavaScript  
-- Backend: MySQL  
-- Funcionalidades: Carrito dinámico, pasarela de pagos  
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
 **Logros técnicos:**  
 - Implementé un sistema de carrito con actualización en tiempo real usando JavaScript  
@@ -48,10 +50,11 @@ Muestra mi capacidad para crear soluciones comerciales funcionales y mi comprens
 **Mi rol:** Arquitectura de software y base de datos.  
 
 **Stack técnico:**  
-- Python (40%)  
-- PyQt (30%)  
-- MySQL (20%)  
-- Geolocalización (10%)  
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=python&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Geolocalización](https://img.shields.io/badge/Geolocalizaci%C3%B3n-2D9CDB?style=flat&logo=googlemaps&logoColor=white)  
 
 **Logros técnicos:**  
 - Desarrollé sistema CRUD con validación de datos en tiempo real  
@@ -65,14 +68,15 @@ Evidencia mi habilidad para resolver problemas reales con software desktop profe
 
 ---
 
-### 3. 🎮 Videojuego \"Matrero\"  
+### 3. 🎮 Videojuego "Matrero"  
 **Qué es:** Juego de aventuras con temática cultural argentina.  
 **Mi rol:** Game developer full cycle.  
 
 **Habilidades clave:**  
-- Unity (mecánicas)  
-- C# (IA de personajes)  
-- Optimización (rendimiento)  
+<br>
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![Optimización](https://img.shields.io/badge/Optimizaci%C3%B3n-4CAF50?style=flat&logo=performance&logoColor=white)  
 
 **Logros técnicos:**  
 - Programé IA con comportamientos adaptativos  
@@ -91,10 +95,11 @@ Demuestra mi creatividad técnica, capacidad para proyectos complejos y habilida
 **Mi rol:** Integrador hardware/software.  
 
 **Stack técnico:**  
-- Hardware: Arduino  
-- Comunicaciones: WiFi  
-- Software: Flutter  
-- Seguridad: Cifrado AES-256  
+<br>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+![WiFi](https://img.shields.io/badge/WiFi-FF6F00?style=flat&logo=wifi&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![AES](https://img.shields.io/badge/AES-CB4154?style=flat&logo=lock&logoColor=white)  
 
 **Logros técnicos:**  
 - Implementé protocolo de comunicación WiFi seguro con cifrado AES-256  
@@ -111,13 +116,23 @@ Muestra mi versatilidad para trabajar en el stack completo IoT, desde hardware h
 ## 🧰 Habilidades técnicas
 
 **Lenguajes & Frameworks**  
-Python | JavaScript | HTML5 | CSS3 | C# | PyQt | Flutter | Node.js | Git
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
+![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=python&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 **Hardware & Automatización**  
-Arduino | Sensores digitales | Microcontroladores | Redes WiFi | Pantallas LCD
-
-**Bases de datos & Otros**  
-MySQL | SQLite | GitHub | Unity (nivel básico) | Trabajo colaborativo | Metodologías ágiles
+<br>
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)  
+![Sensores](https://img.shields.io/badge/Sensores-DX5A6E?style=flat&logo=zigbee&logoColor=white)  
+![Microcontroladores](https://img.shields.io/badge/Microcontroladores-FF6C37?style=flat&logo=embedded&logoColor=white)  
 
 ---
 
