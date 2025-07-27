@@ -7,6 +7,7 @@
 📧 [nico.azcuy@gmail.com](mailto:nico.azcuy@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolas-azcuy/)  
 
+
 ---
 
 ## 🚀 Sobre mí
@@ -39,7 +40,7 @@ Plataforma de comercio electrónico para cooperativa tecnológica.
 - Optimicé rendimiento y diseño responsive para dispositivos móviles   
 
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/CooperativaTecnologica)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/pag-web-coop.git)
 
 
 ---
@@ -57,7 +58,7 @@ Aplicación desktop para gestión de datos comunitarios.
 - Implementé sincronización offline/online usando SQLite como caché local  
  
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/CensoBarrialApp)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/AppRelevamientoBarrial.git)
 
 
 ---
@@ -81,7 +82,7 @@ Juego de aventuras con temática cultural argentina.
 
 ---
 
-### **4. 📡 Plataforma IoT Industrial**  
+### **4. 📡 Proyecto seguridad hogareña**  
 Sistema de monitoreo conectando sensores físicos con aplicaciones móviles.  
 **Mi rol:** Desarrollo e integración hardware/software.  
 
@@ -90,12 +91,12 @@ Sistema de monitoreo conectando sensores físicos con aplicaciones móviles.
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  ![Sensores](https://img.shields.io/badge/Sensores-DX5A6E?style=flat&logo=zigbee&logoColor=white)  ![Microcontroladores](https://img.shields.io/badge/Microcontroladores-FF6C37?style=flat&logo=embedded&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  ![WiFi](https://img.shields.io/badge/WiFi-FF6F00?style=flat&logo=wifi&logoColor=white)  ![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-blue?style=flat&logo=raspberrypi&logoColor=white)
 
 **Logros técnicos:**  
-- Implementé protocolo de comunicación WiFi seguro con cifrado AES-256  
+- Implementé protocolo de comunicación WiFi
 - Diseñé arquitectura en capas para procesamiento de datos en tiempo real  
-- Desarrollé algoritmos para detección de anomalías en flujos de datos  
+- Desarrollé aplicación para celulares de gestión de los sensores
 
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/PlataformaIoT)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/proyecto_seguridad.git)
 
 
 ---
