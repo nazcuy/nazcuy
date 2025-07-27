@@ -1,70 +1,92 @@
 # 👋 ¡Hola! Soy Nicolás Azcuy
 
-Apasionado por la tecnología aplicada al bienestar social y la mejora comunitaria.  
-Actualmente formándome en programación y desarrollando proyectos que integran hardware y software para resolver problemas reales.
+**Desarrollador Full-Stack con Pasión por Proyectos con Impacto Social**  
+*Creando puentes entre la tecnología y las necesidades comunitarias*  
+
+📍 Buenos Aires, Argentina | 📧 nico.azcuy@gmail.com  
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Sobre Mí
 
-- 🧠 Disfruto aprender constantemente y llevar ideas a la práctica.
-- 🤝 Me interesa la tecnología con impacto social.
-- 🛠️ Experiencia en desarrollo de interfaces gráficas, automatización con sensores y microcontroladores, y desarrollo web básico.
-- 🎓 Estudiante de Programación en UTN.
-
----
-
-## 🧰 Tecnologías que uso
-## 🧰 Tecnologías que uso
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/-Tkinter-FFCC00?style=flat&logo=python&logoColor=black)
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![MicroPython](https://img.shields.io/badge/-MicroPython-2C3E50?style=flat&logo=python&logoColor=white)
-
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Kivy](https://img.shields.io/badge/-Kivy-000000?style=flat)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
+Soy un programador apasionado que transforma ideas en soluciones tecnológicas tangibles. Mi enfoque:  
+✨ **Tecnología con propósito** - Desarrollo herramientas que mejoran la vida en comunidades  
+🧩 **Versatilidad técnica** - Integro hardware, software y diseño en proyectos completos  
+🌱 **Aprendizaje continuo** - Estudiante de Programación en UTN y autodidacta permanente  
 
 ---
 
-## 🧪 Proyectos destacados
+## 🛠️ Proyectos Destacados
 
-- **AppRelevamientoBarrial**  
-  Herramienta para registrar, consultar y modificar información de viviendas y registros comunitarios. Interfaz gráfica con Tkinter.
+### 🏘️ 1. Relevamiento Barrial
+*Solución para censos comunitarios*  
+- Programa de escritorio para registrar datos de familias y viviendas  
+- Almacena información en bases de datos profesionales  
+- Próximas mejoras: Mapas interactivos y sincronización offline  
+*Tecnologías: Python, Tkinter, MySQL*  
+[🔗 Ver código](enlace-al-repositorio)
 
-- **proyecto_seguridad**  
-  Sistema de monitoreo con ESP32 y sensores de movimiento, controlado desde una interfaz Kivy.
+### 🛒 2. Cooperativa Tecnológica Martín Fierro
+*Tienda online para cooperativa local*  
+- Catálogo de productos con carrito de compras funcional  
+- Diseño moderno y adaptable a dispositivos móviles  
+- Próximas mejoras: Sistema de pagos y gestión de inventario  
+*Tecnologías: HTML, CSS, JavaScript, SASS*  
+[🔗 Ver sitio](enlace-al-proyecto)
 
-- **pag-web-coop**  
-  Página web simple para una cooperativa local, hecha en HTML.
+### 🎮 3. Matrero
+*Videojuego de aventuras con temática gaucha*  
+- Personajes y mecánicas de juego desarrolladas profesionalmente  
+- Escenarios inspirados en paisajes argentinos  
+- Próximas mejoras: Versión jugable en navegador  
+*Tecnologías: Unity, C#*  
+[🎥 Ver trailer](enlace-al-video)
+
+### 📡 4. Sistema de Monitoreo Inteligente
+*Conexión entre sensores y aplicaciones*  
+- Aparatos físicos que miden movimiento/vibraciones  
+- App móvil que muestra datos en tiempo real  
+- Próximas mejoras: Alertas automáticas y panel de control  
+*Tecnologías: Arduino, Kivy, Python*  
+[⚙️ Ver demostración](enlace-a-demo)
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Habilidades Técnicas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nazcuy&theme=dark)](https://git.io/streak-stats)
+**💻 Desarrollo Software**  
+Python | C# | JavaScript | Java | Git  
+
+**🌐 Frontend & Diseño**  
+HTML | CSS | SASS | Tkinter | Kivy  
+
+**⚙️ Hardware & IoT**  
+Arduino | Raspberry Pi | Sensores | Microcontroladores  
+
+**🎮 Desarrollo de Juegos**  
+Unity | Diseño de niveles | Mecánicas de juego  
 
 ---
 
-## 📫 Contacto
-
-- 📧 [nico.azcuy@gmail.com](mailto:nico.azcuy@gmail.com)
-- 🌍 Buenos Aires, Argentina
+## 📚 Formación Académica
+- **Tecnicatura en Programación** - UTN (En curso)
+- **Cursos especializados**: Desarrollo Web, Python avanzado, IoT
 
 ---
 
-> "..."
+## 📈 Mis Estadísticas GitHub
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tuusuario)](https://git.io/streak-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)](https://github.com/tuusuario)
+
+---
+
+## 🌟 ¿Por qué colaborar conmigo?
+- Desarrollo soluciones **completas** desde el hardware hasta la interfaz
+- Adapto tecnologías a **contextos sociales reales**
+- Combino **calidad técnica** con **sentido comunitario**
+- Siempre abierto a **proyectos innovadores** con impacto positivo
+
+## 📫 Conectemos
+[![Email](https://img.shields.io/badge/Email-nico.azcuy@gmail.com-blue?style=flat&logo=gmail)](mailto:nico.azcuy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](tu-linkedin)
