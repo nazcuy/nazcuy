@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Nicolás Azcuy
 
 **Técnico en Informática | Desarrollador de Software full-stack con foco en soluciones web y aplicaciones desktop-movile**  
-*Apasionado por crear tecnología con impacto social y comunitario*
+
 
 📍 Buenos Aires, Argentina  
 📧 [nico.azcuy@gmail.com](mailto:nico.azcuy@gmail.com)  
