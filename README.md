@@ -112,14 +112,7 @@ Sistema de monitoreo conectando sensores físicos con aplicaciones móviles.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nazcuy)](https://git.io/streak-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazcuy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🤝 ¡Conectemos!
+## 🤝 ¡Contactame!
 
 Estoy interesado en colaborar en proyectos con impacto social, educativo o tecnológico.  
 Podés escribirme por [email](mailto:nico.azcuy@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/nicolas-azcuy/) para conversar sobre ideas y colaboraciones.
