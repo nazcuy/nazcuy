@@ -22,125 +22,98 @@ Soy Técnico en Informática y estudiante de la Tecnicatura Universitaria en Pro
 
 ## 🛠️ Proyectos destacados
 
-### 1. 🛒 E-commerce para Cooperativa Tecnológica  
-**Qué es:** Plataforma de comercio electrónico para una organización social.  
+### 1. **🛒 E-commerce para Cooperativa Tecnológica "Martín Fierro"**  
+Plataforma de comercio electrónico para cooperativa tecnológica.  
 **Mi rol:** Desarrollo completo frontend y backend.  
 
-**Habilidades clave demostradas:**  
+**Tecnologías y cualidades:**  
 <br>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
 **Logros técnicos:**  
 - Implementé un sistema de carrito con actualización en tiempo real usando JavaScript  
 - Diseñé arquitectura escalable para futura integración con APIs de pago  
-- Optimicé rendimiento y diseño responsive para dispositivos móviles  
+- Optimicé rendimiento y diseño responsive para dispositivos móviles   
 
-**Por qué es relevante:**  
-Muestra mi capacidad para crear soluciones comerciales funcionales y mi comprensión del flujo completo de desarrollo web.  
 
-[🔗 Ver repositorio](https://github.com/nazcuy/CooperativaTecnologica)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/CooperativaTecnologica)
 
 ---
 
-### 2. 🏘️ Sistema de Relevamiento Territorial  
-**Qué es:** Aplicación desktop para gestión de datos comunitarios.  
+### **2. 🏘️ Sistema de Relevamiento Territorial**  
+Aplicación desktop para gestión de datos comunitarios.  
 **Mi rol:** Arquitectura de software y base de datos.  
 
-**Stack técnico:**  
+**Tecnologías y cualidades:**  
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=python&logoColor=white)  
+![CRUD](https://img.shields.io/badge/CRUD-Data%20Management-blue?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Geolocalización](https://img.shields.io/badge/Geolocalizaci%C3%B3n-2D9CDB?style=flat&logo=googlemaps&logoColor=white)  
 
 **Logros técnicos:**  
 - Desarrollé sistema CRUD con validación de datos en tiempo real  
 - Implementé sincronización offline/online usando SQLite como caché local  
-- Integré mapas interactivos para visualización geoespacial  
+ 
 
-**Por qué es relevante:**  
-Evidencia mi habilidad para resolver problemas reales con software desktop profesional, enfocado en usabilidad y gestión segura de datos sensibles.  
-
-[🔗 Ver repositorio](https://github.com/nazcuy/CensoBarrialApp)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/CensoBarrialApp)
 
 ---
 
-### 3. 🎮 Videojuego "Matrero"  
-**Qué es:** Juego de aventuras con temática cultural argentina.  
+### **3. 🎮 Videojuego "Matrero"**  
+Juego de aventuras con temática cultural argentina.  
 **Mi rol:** Game developer full cycle.  
 
-**Habilidades clave:**  
+**Tecnologías y cualidades:**  
 <br>
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![Optimización](https://img.shields.io/badge/Optimizaci%C3%B3n-4CAF50?style=flat&logo=performance&logoColor=white)  
 
 **Logros técnicos:**  
 - Programé IA con comportamientos adaptativos  
 - Optimicé assets para mantener 60 FPS en hardware medio  
 - Diseñé sistema de combate balanceado con física realista  
 
-**Por qué es relevante:**  
-Demuestra mi creatividad técnica, capacidad para proyectos complejos y habilidades de optimización transferibles a cualquier desarrollo de software.  
 
-[🔗 Ver repositorio](https://github.com/nazcuy/Matrero)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/Matrero)
 
 ---
 
-### 4. 📡 Plataforma IoT Industrial  
-**Qué es:** Sistema de monitoreo conectando sensores físicos con aplicaciones móviles.  
-**Mi rol:** Integrador hardware/software.  
+### **4. 📡 Plataforma IoT Industrial**  
+Sistema de monitoreo conectando sensores físicos con aplicaciones móviles.  
+**Mi rol:** Desarrollo e integración hardware/software.  
 
-**Stack técnico:**  
+**Tecnologías y cualidades:**  
 <br>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
-![WiFi](https://img.shields.io/badge/WiFi-FF6F00?style=flat&logo=wifi&logoColor=white)  
+![Sensores](https://img.shields.io/badge/Sensores-DX5A6E?style=flat&logo=zigbee&logoColor=white)  
+![Microcontroladores](https://img.shields.io/badge/Microcontroladores-FF6C37?style=flat&logo=embedded&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
-![AES](https://img.shields.io/badge/AES-CB4154?style=flat&logo=lock&logoColor=white)  
+![WiFi](https://img.shields.io/badge/WiFi-FF6F00?style=flat&logo=wifi&logoColor=white)  
 
 **Logros técnicos:**  
 - Implementé protocolo de comunicación WiFi seguro con cifrado AES-256  
 - Diseñé arquitectura en capas para procesamiento de datos en tiempo real  
 - Desarrollé algoritmos para detección de anomalías en flujos de datos  
 
-**Por qué es relevante:**  
-Muestra mi versatilidad para trabajar en el stack completo IoT, desde hardware hasta interfaces de usuario, con énfasis en soluciones escalables y seguras.  
 
-[🔗 Ver repositorio](https://github.com/nazcuy/PlataformaIoT)
-
----
-
-## 🧰 Habilidades técnicas
-
-**Lenguajes & Frameworks**  
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=python&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-
-**Hardware & Automatización**  
-<br>
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)  
-![Sensores](https://img.shields.io/badge/Sensores-DX5A6E?style=flat&logo=zigbee&logoColor=white)  
-![Microcontroladores](https://img.shields.io/badge/Microcontroladores-FF6C37?style=flat&logo=embedded&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/PlataformaIoT)
 
 ---
 
 ## 🎓 Formación académica
 
 - Técnico en Informática  
-- Tecnicatura Universitaria en Programación, UTN (en curso)  
-- Cursos adicionales: Desarrollo Web, Python Avanzado, IoT y Seguridad
+- Tecnicatura Universitaria en Programación, UTN (en curso)
+- Diplomatura en Python (UTN)
+- Desarrollo Web (CoderHouse)
+- Diplomatura en Arduino, MicroPython e Internet de las Cosas (UTN)
 
 ---
 
