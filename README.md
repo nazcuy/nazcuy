@@ -24,7 +24,7 @@ Soy Técnico en Informática y estudiante de la Tecnicatura Universitaria en Pro
 
 ## 🛠️ Proyectos destacados
 
-### 1. **🛒 E-commerce para Cooperativa Tecnológica "Martín Fierro"**  
+### 1. **🛒 E-commerce para Cooperativa Tecnológica "Martín Fierro"**  (en desarrollo)
 Plataforma de comercio electrónico para cooperativa tecnológica.  
 **Mi rol:** Desarrollo completo frontend y backend.  
 
@@ -45,7 +45,7 @@ Plataforma de comercio electrónico para cooperativa tecnológica.
 
 ---
 
-### **2. 🏘️ Sistema de Relevamiento Territorial**  
+### **2. 🏘️ Sistema de Relevamiento Territorial**  (en desarrollo)
 Aplicación desktop para gestión de datos comunitarios.  
 **Mi rol:** Arquitectura de software y base de datos.  
 
@@ -63,7 +63,7 @@ Aplicación desktop para gestión de datos comunitarios.
 
 ---
 
-### **3. 🎮 Videojuego "Matrero"**  
+### **3. 🎮 Videojuego "Matrero"**  (en desarrollo)
 Juego de aventuras con temática cultural argentina.  
 **Mi rol:** Game developer full cycle.  
 
@@ -82,7 +82,7 @@ Juego de aventuras con temática cultural argentina.
 
 ---
 
-### **4. 📡 Proyecto seguridad hogareña**  
+### **4. 📡 Proyecto seguridad hogareña**  (en desarrollo)
 Sistema de monitoreo conectando sensores físicos con aplicaciones móviles.  
 **Mi rol:** Desarrollo e integración hardware/software.  
 
