@@ -45,7 +45,7 @@ Plataforma de comercio electrónico para cooperativa tecnológica.
 
 ---
 
-### **2. 🏘️ Sistema de Relevamiento Territorial**  (en desarrollo)
+### **2. 🏘️ Sistema de Relevamiento Barrial**  (en desarrollo)
 Aplicación desktop para gestión de datos comunitarios.  
 **Mi rol:** Arquitectura de software y base de datos.  
 
@@ -58,7 +58,7 @@ Aplicación desktop para gestión de datos comunitarios.
 - Implementé sincronización offline/online usando SQLite como caché local  
  
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/AppRelevamientoBarrial.git)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/sistema-relevamiento-barrial)
 
 
 ---
