@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Nicolás Azcuy
 
-**💻Técnico en Informática | Desarrollador de Software full-stack con foco en soluciones web y aplicaciones desktop-movile**  
+**💻 Técnico en Informática | Desarrollador de Software Full-Stack enfocado en soluciones web y aplicaciones desktop–mobile**  
 
 
 📍 Buenos Aires, Argentina  
@@ -12,7 +12,7 @@
 
 ## 🚀 Sobre mí
 
-💻 Técnico en Informática | 🎓 Estudiante de Tecnicatura Universitaria en Programación (UTN) | 
+Soy un desarrollador que combina **formación académica** y **aprendizaje autodidacta** 
 
 - 🖥️ Desarrollo Full-stack con foco en soluciones web y aplicaciones desktop  
 - ⚙️ Integración de hardware y software en proyectos IoT y domótica  
@@ -106,7 +106,8 @@ Sistema de monitoreo conectando sensores físicos con aplicaciones móviles.
 - Técnico en Informática  
 - Tecnicatura Universitaria en Programación, UTN (en curso)
 - Diplomatura en Python (UTN)
-- Desarrollo Web (CoderHouse) 
+- Desarrollo Web (CoderHouse)
+- Javascript (CoderHouse)
 - Diplomatura en Arduino, MicroPython e Internet de las Cosas (UTN) 
 
 
