@@ -39,15 +39,18 @@ Automatización completa del proceso de generación de informes para obras públ
 
 
 **Logros técnicos:**
-- Diseñé arquitectura modular con separación clara de responsabilidades (configuración, datos, procesamiento, presentación)
-- Implementé integración multi-fuente combinando datos de Excel local con Google Sheets remoto
-- Desarrollé cálculos automáticos de indicadores financieros complejos (UVI restantes, montos actualizados, avances porcentuales)
-- Configuré templates HTML/CSS con diseño corporativo embebido para generación de PDFs profesionales
-- Creé CLI con múltiples opciones de ejecución (filtros, verbose, dry-run) y sistema de logging profesional
-- Reduje tiempo de procesamiento de 8 horas manuales a 3 minutos automatizados (99,6% de mejora)
+- Organicé el proyecto en módulos claros (configuración, datos, procesamiento y presentación)
+- Integré datos desde Excel local y Google Sheets
+- Automaticé cálculos financieros (UVI restantes, montos actualizados, porcentajes de avance)
+- Generé PDFs profesionales a partir de templates HTML/CSS
+- Agregué una CLI con opciones de ejecución y logging
+- Automaticé un proceso que llevaba ~8 horas manuales y pasó a resolverse en ~3 minutos
 
 
-Impacto: 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/generador_informes_obras.git)
+
+
+---
 
 
 ### 2. **🛒 E-commerce para Cooperativa Tecnológica "Martín Fierro"**  (en desarrollo)
@@ -71,6 +74,7 @@ Plataforma de comercio electrónico para cooperativa tecnológica.
 
 ---
 
+
 ### **3. 🏘️ Sistema de Relevamiento Barrial**  (en desarrollo)
 Aplicación desktop para gestión de datos comunitarios.  
 **Mi rol:** Arquitectura de software y base de datos.  
@@ -88,6 +92,7 @@ Aplicación desktop para gestión de datos comunitarios.
 
 
 ---
+
 
 ### **4. 🎮 Videojuego "Matrero"**  (en desarrollo)
 Juego de aventuras con temática cultural argentina.  
@@ -107,6 +112,7 @@ Juego de aventuras con temática cultural argentina.
 
 
 ---
+
 
 ### **5. 📡 Proyecto seguridad hogareña**  (en desarrollo)
 Sistema de monitoreo conectando sensores físicos con aplicaciones móviles.  
