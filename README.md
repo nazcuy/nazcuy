@@ -24,7 +24,33 @@ Soy un desarrollador que combina **formación académica** y **aprendizaje autod
 
 ## 🛠️ Proyectos destacados
 
-### 1. **🛒 E-commerce para Cooperativa Tecnológica "Martín Fierro"**  (en desarrollo)
+### 1. **🏗️ Sistema de Generación Automatizada de Informes para Obras Públicas**
+Sistema de automatización gubernamental para generación masiva de informes PDF profesionales a partir de datos de Excel y Google Sheets.
+Automatización completa del proceso de generación de informes para obras públicas paralizadas, eliminando errores manuales y garantizando consistencia en el formato de salida.
+**Mi rol:** Arquitectura, desarrollo completo e implementación.
+
+**Tecnologías utilizadas:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat&logo=jinja&logoColor=white)
+![wkhtmltopdf](https://img.shields.io/badge/wkhtmltopdf-4A4A4A?style=flat&logo=wkhtmltopdf&logoColor=white)
+![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat&logo=googlesheets&logoColor=white)
+![gspread](https://img.shields.io/badge/gspread-3776AB?style=flat&logo=python&logoColor=white)
+
+
+**Logros técnicos:**
+- Diseñé arquitectura modular con separación clara de responsabilidades (configuración, datos, procesamiento, presentación)
+- Implementé integración multi-fuente combinando datos de Excel local con Google Sheets remoto
+- Desarrollé cálculos automáticos de indicadores financieros complejos (UVI restantes, montos actualizados, avances porcentuales)
+- Configuré templates HTML/CSS con diseño corporativo embebido para generación de PDFs profesionales
+- Creé CLI con múltiples opciones de ejecución (filtros, verbose, dry-run) y sistema de logging profesional
+- Reduje tiempo de procesamiento de 8 horas manuales a 3 minutos automatizados (99,6% de mejora)
+
+
+Impacto: 
+
+
+### 2. **🛒 E-commerce para Cooperativa Tecnológica "Martín Fierro"**  (en desarrollo)
 Plataforma de comercio electrónico para cooperativa tecnológica.  
 **Mi rol:** Desarrollo completo frontend y backend.  
 
@@ -45,7 +71,7 @@ Plataforma de comercio electrónico para cooperativa tecnológica.
 
 ---
 
-### **2. 🏘️ Sistema de Relevamiento Barrial**  (en desarrollo)
+### **3. 🏘️ Sistema de Relevamiento Barrial**  (en desarrollo)
 Aplicación desktop para gestión de datos comunitarios.  
 **Mi rol:** Arquitectura de software y base de datos.  
 
@@ -63,7 +89,7 @@ Aplicación desktop para gestión de datos comunitarios.
 
 ---
 
-### **3. 🎮 Videojuego "Matrero"**  (en desarrollo)
+### **4. 🎮 Videojuego "Matrero"**  (en desarrollo)
 Juego de aventuras con temática cultural argentina.  
 **Mi rol:** Game developer full cycle.  
 
@@ -82,7 +108,7 @@ Juego de aventuras con temática cultural argentina.
 
 ---
 
-### **4. 📡 Proyecto seguridad hogareña**  (en desarrollo)
+### **5. 📡 Proyecto seguridad hogareña**  (en desarrollo)
 Sistema de monitoreo conectando sensores físicos con aplicaciones móviles.  
 **Mi rol:** Desarrollo e integración hardware/software.  
 
