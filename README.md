@@ -7,6 +7,7 @@
 **⚡Automatización | 🔌 Reparaciones electrónicas** 
 
 
+
 📍 Buenos Aires, Argentina  
 📧 [nico.azcuy@gmail.com](mailto:nico.azcuy@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nicolas-azcuy/)  
