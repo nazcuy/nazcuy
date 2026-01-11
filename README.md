@@ -1,7 +1,9 @@
 # 👋 ¡Hola! Soy Nicolás Azcuy
 
 **💻 Desarrollador de Software | Técnico en Informática**
+
 **⚛️ React JS |📱 React Native | ☕ Java | 🍃 Spring | 🐍 Python**
+
 **⚡Automatización | 🔌 Reparaciones electrónicas** 
 
 
