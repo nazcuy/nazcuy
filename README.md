@@ -72,7 +72,7 @@ Plataforma de comercio electrónico para cooperativa tecnológica.
 - Optimicé rendimiento y diseño responsive para dispositivos móviles   
 
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/pag-web-coop.git)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio]([https://github.com/nazcuy/coop-fierro.git])
 
 
 ---
