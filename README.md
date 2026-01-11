@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy Nicolás Azcuy
 
-**💻 Técnico en Informática | Desarrollador de Software Full-Stack enfocado en soluciones web y aplicaciones desktop–mobile**  
+**💻 Desarrollador de Software | Técnico en Informática **
+**⚛️ React JS |📱 React Native | ☕ Java | 🍃 Spring | 🐍 Python | **
+**⚡Automatización | 🔌 Reparaciones electrónicas ** 
 
 
 📍 Buenos Aires, Argentina  
@@ -14,11 +16,9 @@
 
 Soy un desarrollador que combina **formación académica** y **aprendizaje autodidacta** 
 
-- 🖥️ Desarrollo Full-stack con foco en soluciones web y aplicaciones desktop  
-- ⚙️ Integración de hardware y software en proyectos IoT y domótica  
-- 🎮 Creación y optimización de videojuegos con identidad cultural  
-- 🌱 Aprendizaje constante, trabajo en equipo y metodologías ágiles  
-
+- 🖥️ Desarrollo Full-stack con foco en soluciones web y aplicaciones desktop.  
+- ⚙️ Integración de hardware y software en proyectos IoT.
+- 
 
 ---
 
