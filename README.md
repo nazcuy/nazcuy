@@ -94,30 +94,11 @@ Aplicación desktop para gestión de datos comunitarios.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/sistema-relevamiento-barrial)
 
 
----
-
-
-### **4. 🎮 Videojuego "Matrero"**  (en desarrollo)
-Juego de aventuras con temática cultural argentina.  
-**Mi rol:** Game developer full cycle.  
-
-**Tecnologías y cualidades:**  
-<br>
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-
-**Logros técnicos:**  
-- Programé IA con comportamientos adaptativos  
-- Optimicé assets para mantener 60 FPS en hardware medio  
-- Diseñé sistema de combate balanceado con física realista  
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  [🔗 Ver repositorio](https://github.com/nazcuy/Matrero)
-
 
 ---
 
 
-### **5. 📡 Proyecto seguridad hogareña**  (en desarrollo)
+### **4. 📡 Proyecto seguridad hogareña**  (en desarrollo)
 Sistema de monitoreo conectando sensores físicos con aplicaciones móviles.  
 **Mi rol:** Desarrollo e integración hardware/software.  
 
